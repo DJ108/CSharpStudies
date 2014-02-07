@@ -8,5 +8,6 @@ namespace TestingGitVCS
 {
     class MyClass
     {
+        // MyClass Rocks!
     }
 }
